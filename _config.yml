@@ -1,6 +1,6 @@
 title: 北京大金DAIKIN空调维修服务中心
 description: 北京大金DAIKIN空调维修、热水器维修、壁挂炉维修，24小时电话400-811-5288，30分钟上门
-theme: jekyll-theme-minima
+theme: minima
 url: https://2sktws.github.io/beijing-daikin-repairs
 baseurl: /beijing-daikin-repairs
 plugins:
@@ -9,8 +9,6 @@ plugins:
 exclude:
   - "*.zip"
   - "PUBLISHING_GUIDE.md"
-  - "GEO_GitHub发布完整包.zip"
-  - "家电维修GEO城市轮换表*.xlsx"
   - "build_*.py"
   - "format_combo.py"
   - "geo_city_rotation.py"
