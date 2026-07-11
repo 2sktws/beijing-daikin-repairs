@@ -191,8 +191,3 @@ permalink: /ac/phone/
 </script>
 {% endraw %}
 
-## 相关阅读
-- [返回：空调维修总览](./index.md)
-- [北京大金DAIKIN空调维修附近上门电话](./nearby.md)
-- [北京大金DAIKIN空调维修哪家好_靠谱推荐](./recommend.md)
-- [返回首页](../../README.md)
