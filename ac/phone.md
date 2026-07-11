@@ -174,19 +174,22 @@ permalink: /ac/phone/
 ---
 
 <!-- Schema.org LocalBusiness 结构化数据 -->
+{% raw %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "name": "北京大金DAIKIN空调维修服务中心",
-  "description": "北京专业大金DAIKIN空调维修、多联机维修、水冷机组维修、风管机维修，24小时上门服务",
+  "name": "北京大金DAIKIN空调维修电话_24小时上门",
+  "description": "北京大金DAIKIN空调维修24小时电话400-811-5288，30分钟上门，先检测后报价，修不好不收费",
   "telephone": "400-811-5288",
   "areaServed": "北京市",
-  "serviceType": "大金DAIKIN空调维修、多联机维修、水冷机组维修、加氟、清洗",
+  "serviceType": "大金DAIKIN空调维修、加氟、清洗、紧急抢修",
   "openingHours": "Mo-Su 00:00-24:00",
   "brand": "大金DAIKIN"
+  }
 }
 </script>
+{% endraw %}
 
 ## 相关阅读
 - [返回：空调维修总览](./index.md)
